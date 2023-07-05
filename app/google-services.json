@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "338779786326",
+    "firebase_url": "https://foot-helper-default-rtdb.firebaseio.com",
+    "project_id": "foot-helper",
+    "storage_bucket": "foot-helper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338779786326:android:fb46154b84655e64c27ff7",
+        "android_client_info": {
+          "package_name": "com.example.foothelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338779786326-iuog1r6pm6180ifdkd8mvcqib61v5egb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtCqRTPPQNEOlusKHwfZxCU-W695Faq1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338779786326-iuog1r6pm6180ifdkd8mvcqib61v5egb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

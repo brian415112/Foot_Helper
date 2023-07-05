@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Foot Helper</string>
+    <string name="足壓偵測">足壓偵測</string>
+    <string name="連接偵測設備">連接偵測設備</string>
+    <string name="設定警示值">設定警示值</string>
+    <string name="查看歷史檢測報告">查看歷史檢測報告</string>
+    <string name="設定定時提醒">設定定時提醒</string>
+
+    <string name="Textview">Textview</string>
+
+    <string name="搜尋">搜尋</string>
+
+    <string name="開始偵測">開始偵測</string>
+    <string name="結束偵測">結束偵測</string>
+    <string name="關閉提醒">關閉提醒</string>
+    <string name="Button">Button</string>
+
+
+    <string name="復健鞋連接中">復健鞋連接中</string>
+    <string name="APP尚未與復健鞋做連接">APP尚未與復健鞋做連接</string>
+    <string name="請輸入鬧鐘提示音">請輸入鬧鐘提示音</string>
+    <string name="TODO" />
+    <string name="textview">TextView</string>
+    <string name="_25">25</string>
+    <string name="確認送出">確認送出</string>
+    <string name="_0">0</string>
+    <string name="確定送出">確定送出</string>
+    <string name="_10">10</string>
+    <string name="設定完成">設定完成</string>
+    <string name="todo">TODO</string>
+    <string name="設定">設定</string>
+    <string name="設備連接">設備連接</string>
+    <string name="警戒值設定">警戒值設定</string>
+    <string name="上傳數據">上傳數據</string>
+    <string name="警示值設定">警示值設定</string>
+
+
+    <string-array name="alarm_beep">
+        <item>雷達</item>
+        <item>上升</item>
+        <item>山坡</item>
+
+    </string-array>
+
+    <string-array name="history_reports">
+<!--        <item>雷達</item>-->
+<!--        <item>上升</item>-->
+<!--        <item>山坡</item>-->
+
+    </string-array>
+</resources>
