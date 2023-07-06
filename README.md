@@ -18,7 +18,7 @@ This project mainly focuses on fracture rehabilitation, using rehabilitation sho
 I am using the following function of **Firebase** to store user data.
 | Function  | Introduction | Picture |
 | ------------- |---------------|---------------|
-| **Cloud Firestore**      | Use flexible, scalable NoSQL cloud database to store and sync data for client- and server-side development.     | ![image](https://github.com/brian415112/Detect_AI/blob/11ed8ab1d807c71fe85520452fbe68ae124739a7/image/Cloud%20Firestore.png)     |
+| **Cloud Firestore**      | Use flexible, scalable NoSQL cloud database to store and sync data for client- and server-side development.     | ![image](https://github.com/brian415112/Foot_Helper/blob/5fdc8380711ffc25137b2702d1584d7091c4c283/image/Cloud%20Firestore.png)     |
 
 ## Screenshot
 <img src="https://github.com/brian415112/Foot_Helper/blob/3d488e6a100124582b57b8edf888df10258c1f5e/image/screenshot/1.jpg" width="32%"> <img src="https://github.com/brian415112/Foot_Helper/blob/3d488e6a100124582b57b8edf888df10258c1f5e/image/screenshot/2.jpg" width="32%"> <img src="https://github.com/brian415112/Foot_Helper/blob/3d488e6a100124582b57b8edf888df10258c1f5e/image/screenshot/3.jpg" width="32%">
