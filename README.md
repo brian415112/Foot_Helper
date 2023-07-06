@@ -3,11 +3,11 @@
 ## Introduction
 This project mainly develops a set of customized foot pressure sensors (hereinafter called the 'rehabilitation shoes') combined with the mobile phone App "Foot Helper."
 
-The foot is the reaction force of the human body to bear the weight of the body and contact the ground, and this force is also called foot pressure. Using the sensed foot pressure and the foot pressure value that the doctor advises the patient not to exceed (hereinafter called the 'warning value'), let Patients can reduce injuries while recovering.
+The foot pressure is the reaction force of the foot to bear the weight of the body and contact the ground. Using the sensed foot pressure and the foot pressure value that the doctor advises the patient not to exceed (hereinafter called the 'warning value'), let Patients can reduce injuries while recovering.
 
-In the rehabilitation process, mobile apps can be used to achieve independent rehabilitation and health management. Users can perform rehabilitation at home without going to specific places (such as hospitals), and use mobile apps to detect foot pressure, set the warning value, set rehabilitation reminders, and view historical detection data and other functions.
+In the rehabilitation process, the mobile app can be used to achieve independent rehabilitation and health management. Users can perform rehabilitation at home without going to specific places (such as hospitals), and use the mobile app to detect foot pressure, set the warning value, set rehabilitation reminders, and view historical detection data and other functions.
 
-This project mainly focuses on fracture rehabilitation, using rehabilitation shoes to detect the value of foot pressure, and matching with mobile apps, so that users can carry out self-rehabilitation and health management at home more easily, conveniently, and cost-effectively.
+This project mainly focuses on fracture rehabilitation, using rehabilitation shoes to detect the value of foot pressure, and matching with the mobile app, so that users can carry out self-rehabilitation and health management at home more easily, conveniently, and cost-effectively.
 
 ## Development Information
 * Tool : **Android Studio**
