@@ -1,7 +1,7 @@
 # Foot_Helper
 
 ## Introduction
-This project mainly develops a set of customized foot pressure sensors (hereinafter called the 'rehabilitation shoes') combined with the mobile phone App "Foot Helper."
+This project mainly develops a set of customized foot pressure sensors (hereinafter called the 'rehabilitation shoes') combined with the mobile phone App "Foot Helper".
 
 The foot pressure is the reaction force of the foot to bear the weight of the body and contact the ground. Using the sensed foot pressure and the foot pressure value that the doctor advises the patient not to exceed (hereinafter called the 'warning value'), let Patients can reduce injuries while recovering.
 
